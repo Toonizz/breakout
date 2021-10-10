@@ -2,6 +2,8 @@ import time
 from turtle import Screen, Turtle
 from random import choice
 
+# -------------------- Screen -------------------- #
+
 screen = Screen()
 screen.bgcolor("black")
 screen.setup(800, 600)
